@@ -1,0 +1,25 @@
+Aufgabe 3.3: 
+Implementierung 
+Punkte:   / 13 
+Implementieren Sie dieses Spiel! 
+
+
+(a) 
+(4 Punkte) Implementieren Sie eine Funktion roll dice(number=1, faces=6, seed=None). 
+Diese Funktion gibt einen String zuruck, in dem die gewurfelten Zahlen im Intervall [1..faces] durch Komma getrennt stehen. 
+Es wird mit number Wurfeln (number im Intervall [1,10]) gewurfelt, je mit faces Flachen. 
+faces ist aus dem Intervall [2,100] zu wahlen. 
+Bei jedem W¨urfel soll die Verteilung der Zahlen moglichst gleichverteilt sein und im Intervall [1,faces] liegen. 
+seed ist eine Float-Zahl, die dem Quasi-Zufallszahlen Generator von Python als Parameter ubergeben wird. 
+Dies wird genutzt, um Wurfelergebnisse wiederholbar (d.h. reproduzierbar) zu machen. 
+
+
+(b) 
+(4 Punkte) Implementieren Sie eine Funktion roll cheating dice(). 
+Modifizieren Sie dabei den Wurfelwurf eines elektronischen Wurfel mit 6 Flachen (nur diesen!) so, 
+dass die Zahl 3 relativ mit der doppelten Wahrscheinlichkeit erscheint, wie die anderen funf Zahlen. 
+
+
+(c) 
+(5 Punkte) Implementieren Sie eine Funktion sixteen is dead(players), welche den Ablauf des gesamten Spiels implementiert. 
+players bezeichnet dabei die Anzahl an Spielern
