@@ -1,0 +1,7 @@
+Aufgabe 3.5: 
+Fehlerbehandlung Punkte:   / 3 
+
+Ihr User Interface soll robust angelegt sein, 
+sodass falsche Eingaben des Benutzers nicht zu einem Absturz fuhren.
+
+DP: Errors as a condition for loop to restart other procedure
