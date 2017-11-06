@@ -1,0 +1,15 @@
+Aufgabe 3.4: 
+User Interface Punkte:   / 4 
+
+Entwickeln Sie eine einfache Benutzungsschnittstelle auf Konsolenebene, die sich durch Tastatureingaben bedienen lasst. 
+Diese soll folgende Moglichkeiten bieten:
+
+Dem Benutzer zu Beginn mittleilen, 
+was gultige Eingaben sind und was diese bewirken. 
+Dabei soll Eingabe das erneute Wurfeln bewirken. 
+Das Weiterreichen des Knobelbechers zeigt man durch die Eingabe von n (fur next) an.
+Kennzeichnung, welcher Spieler gerade am Zug ist,
+dem Benutzer des Spieles die Moglichkeit zu bieten, 
+das Spiel jederzeit zu beenden 
+oder 
+eine neue Runde zu starten,
