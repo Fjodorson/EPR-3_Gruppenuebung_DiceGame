@@ -1,5 +1,8 @@
 # EPR-3_Gruppenuebung_DiceGame
 
+Die Aufgabe bringt bis zu 20 Punkte. 
+Abgabe ist der 18.11.2017 um 16 Uhr. 
+
 Aufgabe 3.2: Das Spiel
 ”16-ist-tot“ ist ein Knobelspiel, das haufig in Kneipen gespielt wird. Oft ist der
 Einsatz das Bezahlen der n¨achsten Runde. Gew¨urfelt wird reihum mit einem W¨urfel.
